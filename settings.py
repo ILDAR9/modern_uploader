@@ -31,8 +31,6 @@ DATABASES = {
         'USER': 'user',
         'PASSWORD': 'password',
         'HOST': 'localhost',
-        # 'PASSWORD': 'qweasd',
-        # 'HOST': '172.20.114.216',
         'PORT': '5432',
     },
     'testload_db': {
@@ -43,8 +41,6 @@ DATABASES = {
         'USER': 'user',
         'PASSWORD': 'password',
         'HOST': 'localhost',
-        # 'PASSWORD': 'qweasd',
-        # 'HOST': '172.20.114.216',
         'PORT': '5432',
     }
 }
